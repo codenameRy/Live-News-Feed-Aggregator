@@ -1,0 +1,20 @@
+{
+  "name": "Live-News-Feed-Aggregator",
+  "version": "1.0.0",
+  "description": "Live News Feed Aggregator built with React, NodeJS, Pusher, JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenameRy/Live-News-Feed-Aggregator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codenameRy/Live-News-Feed-Aggregator/issues"
+  },
+  "homepage": "https://github.com/codenameRy/Live-News-Feed-Aggregator#readme"
+}
